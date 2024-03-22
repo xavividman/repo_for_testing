@@ -1,4 +1,4 @@
-# Ahroa estamos en staging
+# Ahora estamos en staging
 
 a = 5
 b = 10
